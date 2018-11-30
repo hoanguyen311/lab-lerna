@@ -5,7 +5,7 @@
 ```
 
 ```react
-<Hello />
+<Hello text="test" />
 ```
 
 ```react
