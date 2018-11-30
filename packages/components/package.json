@@ -25,5 +25,9 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.6.3"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "efa4ac301a63ed6a9084f993537f09f2c943b082"
 }
