@@ -1,9 +1,9 @@
 {
   "name": "@hoa.nguyen-thai-test/styleguide",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": true,
   "dependencies": {
-    "@hoa.nguyen-thai-test/components": "^0.0.4",
+    "@hoa.nguyen-thai-test/components": "^0.0.5",
     "catalog": "^3.6.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
